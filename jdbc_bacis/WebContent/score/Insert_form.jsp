@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>시험 점수 등록하기</h1>
+	<h1>시험 점수 등록하기ee</h1>
 	<form action="insert_controller.jsp" method="post">
 		<div>
 			# 이름 : <input type = "text" name="name" maxlength="5"><br>
