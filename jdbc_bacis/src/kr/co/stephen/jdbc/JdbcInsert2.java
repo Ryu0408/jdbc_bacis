@@ -10,7 +10,7 @@ public class JdbcInsert2 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.println("# 회원 정보를 입력하세요.");
+		System.out.println("# 회원 정보를 입력하세요ddd.");
 		
 		System.out.println(" 아이디 : ");
 		String id = sc.next();
